@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLib Attacher", "DLib Attacher\DLib Attacher.vcxproj", "{DA0567CF-ED7F-43E4-9203-86F6DCF869AF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLib Shellcode", "DLib Shellcode\DLib Shellcode.vcxproj", "{F54A0604-92A5-469A-A023-3F0E218EFD62}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLib Shellcode extract", "DLib Shellcode extract\DLib Shellcode extract.vcxproj", "{0A013F3B-DEBC-4238-BFAB-A4C10543EBCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA0567CF-ED7F-43E4-9203-86F6DCF869AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DA0567CF-ED7F-43E4-9203-86F6DCF869AF}.Debug|Win32.Build.0 = Debug|Win32
+		{DA0567CF-ED7F-43E4-9203-86F6DCF869AF}.Release|Win32.ActiveCfg = Release|Win32
+		{DA0567CF-ED7F-43E4-9203-86F6DCF869AF}.Release|Win32.Build.0 = Release|Win32
+		{F54A0604-92A5-469A-A023-3F0E218EFD62}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F54A0604-92A5-469A-A023-3F0E218EFD62}.Debug|Win32.Build.0 = Debug|Win32
+		{F54A0604-92A5-469A-A023-3F0E218EFD62}.Release|Win32.ActiveCfg = Release|Win32
+		{F54A0604-92A5-469A-A023-3F0E218EFD62}.Release|Win32.Build.0 = Release|Win32
+		{0A013F3B-DEBC-4238-BFAB-A4C10543EBCB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0A013F3B-DEBC-4238-BFAB-A4C10543EBCB}.Debug|Win32.Build.0 = Debug|Win32
+		{0A013F3B-DEBC-4238-BFAB-A4C10543EBCB}.Release|Win32.ActiveCfg = Release|Win32
+		{0A013F3B-DEBC-4238-BFAB-A4C10543EBCB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
